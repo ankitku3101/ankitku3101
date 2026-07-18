@@ -17,15 +17,9 @@
 - I like building things end-to-end — from real-time backends to the UI that sits on top of them.
 - Reach me at **ankit.ku3101@gmail.com**
 
----
-
-### Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,go,py,react,nextjs,tailwind,nodejs,express,socketio,redis,electron,mongodb,postgres,supabase,aws,gcp,docker,vercel,githubactions" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,js,ts,go,py,react,nextjs,tailwind,nodejs,bun,npm,pnpm,express,redis,electron,mongodb,postgres,supabase,linux,bash,aws,gcp,docker,vercel,cloudflare,githubactions" />
 </p>
-
----
 
 ### Achievements
 
@@ -38,8 +32,6 @@
 ---
 
 <p align="center"><i>Currently open to full-time Full-Stack / SDE opportunities — let's connect!</i></p>
-
----
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
