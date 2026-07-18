@@ -18,7 +18,7 @@
 - Reach me at **ankit.ku3101@gmail.com**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,js,ts,go,py,react,nextjs,tailwind,nodejs,bun,npm,pnpm,express,redis,electron,mongodb,postgres,supabase,linux,bash,aws,gcp,docker,vercel,cloudflare,githubactions" />
+  <img src="https://skillicons.dev/icons?i=html,css,c,cpp,js,ts,go,py,react,nextjs,tailwind,nodejs,bun,npm,pnpm,express,redis,electron,mongodb,postgres,supabase,linux,bash,aws,gcp,docker,vercel,cloudflare,githubactions,postman" />
 </p>
 
 ### Achievements
