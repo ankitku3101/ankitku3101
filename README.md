@@ -23,7 +23,7 @@
 
 ### Achievements
 
-- **Finalist, Smart India Hackathon 2023** — presented a mental health surveillance solution to the Prime Minister of India on live telecast
+- **Finalist, Smart India Hackathon 2023** — presented a mental health surveillance solution to Prime Minister of India on live telecast
 - **1st Runner-Up, BPUT Hackathon 2024** — AI-powered talent matching platform
 - **1st Runner-Up, Srusti Tech Hack 1.0 2025** — rural education insights platform
 - **1st Runner-Up, GIET Hackfest (SURAVI) 2025** — carbon emissions dashboard
