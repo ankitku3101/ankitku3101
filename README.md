@@ -37,14 +37,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitku3101&hide_border=true" />
-</p>
-
----
-
 <p align="center"><i>Currently open to full-time Full-Stack / SDE opportunities — let's connect!</i></p>
 
 ---
