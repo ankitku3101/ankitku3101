@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ankit 👋</h1>
-<h3 align="center">Full-Stack Engineer</h3>
+<h3 align="center">A Full-Stack Engineer in the making</h3>
 
 <p align="center">
   <a href="https://ankit31.me"><img src="https://img.shields.io/badge/Portfolio-ankit31.me-black?style=flat-square" /></a>
@@ -11,7 +11,7 @@
 
 ### About Me
 
-- B.Tech in Computer Science & Engineering, **open to full-time SDE / Full-Stack roles**
+- B.Tech in Computer Science & Engineering
 - Recently completed an SDE internship at **Kim (kim.cc)**, shipping production APIs and revamping core product interfaces.
 - Currently deepening my DSA, system design fundamentals, and exploring AI tooling projects.
 - I like building things end-to-end — from real-time backends to the UI that sits on top of them.
