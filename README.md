@@ -15,7 +15,6 @@
 - Former SDE Intern at **Kim (kim.cc)**
 - I like building things end-to-end — from real-time backends to the UI that sits on top of them.
 - Currently exploring AI, LLMs, agentic systems and modern developer workflows.
-- Reach me at **ankit.ku3101@gmail.com**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,cpp,js,ts,go,py,react,nextjs,tailwind,nodejs,bun,npm,pnpm,express,redis,electron,mongodb,postgres,supabase,linux,bash,aws,gcp,docker,vercel,cloudflare,githubactions,postman" />
