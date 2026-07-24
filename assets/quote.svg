@@ -8,11 +8,11 @@
 
   <rect x="4" y="4" width="752" height="222" rx="8" fill="url(#bg)" stroke="#404040" stroke-width="1.5"/>
 
-  <g font-family="Georgia, 'Times New Roman', serif" fill="#e2e8f0" font-style="italic" font-size="21" text-anchor="middle">
+  <g font-family="'Courier New', Courier, monospace" fill="#e2e8f0" font-style="italic" font-size="18" text-anchor="middle">
     <text x="380" y="78">You can't connect the dots looking forward; you can only</text>
     <text x="380" y="110">connect them looking backwards. So you have to trust that</text>
     <text x="380" y="142">the dots will somehow connect in your future.</text>
   </g>
 
-  <text x="380" y="184" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1" fill="#94a3b8">&#8212;&#160;STEVE JOBS</text>
+  <text x="380" y="184" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#94a3b8">&#8212;&#160;STEVE JOBS</text>
 </svg>

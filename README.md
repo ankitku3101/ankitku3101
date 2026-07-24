@@ -5,7 +5,7 @@ Reach me: [`Email`](mailto:ankit.ku3101@gmail.com) [`LinkedIn`](https://linkedin
 
 
 <p align="center">
-  <img src="./assets/quote.svg" width="504" alt="You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. — Steve Jobs" />
+  <img src="./assets/quote.svg" width="100%" alt="You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. — Steve Jobs" />
 </p>
 
 <!--
